@@ -1,7 +1,7 @@
 # Py Me Up, Charlie
 
 ## Background
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python! 
+**Welcome to the world of programming with Python!!**
 
 ![Time to code!](/images/code.gif)
 
