@@ -28,7 +28,7 @@ Created a python script to analyze and modernize the vote counting process for a
 ![PyPoll](/images/poll1.gif)
 
 **Tasks:**
-1. The total number of votes case
+1. The total number of votes cast
 2. A complete list of candidates who received votes
 3. The percentage of votes each candidate won
 4. The total number of votes each candidate won
